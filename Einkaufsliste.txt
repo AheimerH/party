@@ -1,0 +1,10 @@
+Einkaufsliste
+=============
+
+Getränke
+--------
+- 3 Kisten Sprudel
+
+Essen
+-----
+- 4 Tüten Chips
